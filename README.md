@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/logo1.png" alt="IQA Logo" width="1000"/>
+  <img src="./assets/logo1.png" alt="IQA Logo" width="1200"/>
   
   <h3><strong> Image Quality Assessment for Machines: Paradigm, Large-scale Database, and Models
 </strong></h3> 
@@ -11,7 +11,7 @@
   [![Colab](https://img.shields.io/badge/Colab-Tutorial-blue?style=flat-square)](link-to-colab)
   [![GitHub Stars](https://img.shields.io/github/stars/XiaoqiWang/MIQA?style=social)](https://github.com/XiaoqiWang/MIQA)
   
-[中文文档](README_CN.md) | [English](README.md) | [Colab](colab-link) | [博客](blog-link)
+[中文](README_CN.md) | [English](README.md) | [Colab](colab-link) | [博客](blog-link)
 </div>
 <div style="font-size: 13px;">
 🎯 Project Overview
@@ -57,9 +57,9 @@
 
 ## ✨ Does MIQA Work?
 <div align="center">
-  <img src="./assets/cls_ratio.png" alt="Classification Performance" width="33%"/>
-  <img src="./assets/det_ratio_ap75.png" alt="Detection Performance" width="33%"/>
-  <img src="./assets/ins_ratio_ap75.png" alt="Instance Segmentation Performance" width="33%"/>
+  <img src="./assets/cls_ratio.png" alt="Classification Performance" width="30%"/>
+  <img src="./assets/det_ratio_ap75.png" alt="Detection Performance" width="30%"/>
+  <img src="./assets/ins_ratio_ap75.png" alt="Instance Segmentation Performance" width="30%"/>
   <p><em>Performance improvement across tasks when filtering low-quality images using MIQA scores</em></p>
 </div>
 

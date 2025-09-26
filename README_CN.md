@@ -10,7 +10,7 @@
   [![Colab](https://img.shields.io/badge/Colab-教程-blue?style=flat-square)](link-to-colab)
   [![GitHub Stars](https://img.shields.io/github/stars/XiaoqiWang/MIQA?style=social)](https://github.com/XiaoqiWang/MIQA)
   
-[中文文档](README_CN.md) | [English](README.md) | [Colab](colab-link) | [博客](blog-link)
+[中文](README_CN.md) | [English](README.md) | [Colab](colab-link) | [博客](blog-link)
 </div>
 <div style="font-size: 13px;">
 🎯 项目概览
@@ -40,9 +40,9 @@
 
 ## ✨ MIQA 是否有效？
 <div align="center">
-  <img src="./assets/cls_ratio.png" alt="分类任务性能" width="33%"/>
-  <img src="./assets/det_ratio_ap75.png" alt="检测任务性能" width="33%"/>
-  <img src="./assets/ins_ratio_ap75.png" alt="实例分割任务性能" width="33%"/>
+  <img src="./assets/cls_ratio.png" alt="分类任务性能" width="30%"/>
+  <img src="./assets/det_ratio_ap75.png" alt="检测任务性能" width="30%"/>
+  <img src="./assets/ins_ratio_ap75.png" alt="实例分割任务性能" width="30%"/>
   <p><em>使用 MIQA 分数过滤低质量图像后，各项任务的性能均得到提升</em></p>
 </div>
 
@@ -90,10 +90,6 @@ mim install "mmcv>=2.0.0rc4,<2.2.0"  # 注意：此处版本号仅为示例，�
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📦 模型权重
-
-我们提供了一系列预训练模型权重供您下载。
 
 ---
 
