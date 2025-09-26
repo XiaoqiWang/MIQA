@@ -57,9 +57,9 @@
 
 ## ✨ Does MIQA Work?
 <div align="center">
-  <img src="./assets/cls_ratio.png" alt="Classification Performance" width="30%"/>
-  <img src="./assets/det_ratio_ap75.png" alt="Detection Performance" width="30%"/>
-  <img src="./assets/ins_ratio_ap75.png" alt="Instance Segmentation Performance" width="30%"/>
+  <img src="./assets/cls_ratio.png" alt="Classification Performance" width="32%"/>
+  <img src="./assets/det_ratio_ap75.png" alt="Detection Performance" width="32%"/>
+  <img src="./assets/ins_ratio_ap75.png" alt="Instance Segmentation Performance" width="32%"/>
   <p><em>Performance improvement across tasks when filtering low-quality images using MIQA scores</em></p>
 </div>
 

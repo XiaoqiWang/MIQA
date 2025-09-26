@@ -40,9 +40,9 @@
 
 ## ✨ MIQA 是否有效？
 <div align="center">
-  <img src="./assets/cls_ratio.png" alt="分类任务性能" width="30%"/>
-  <img src="./assets/det_ratio_ap75.png" alt="检测任务性能" width="30%"/>
-  <img src="./assets/ins_ratio_ap75.png" alt="实例分割任务性能" width="30%"/>
+  <img src="./assets/cls_ratio.png" alt="分类任务性能" width="32%"/>
+  <img src="./assets/det_ratio_ap75.png" alt="检测任务性能" width="32%"/>
+  <img src="./assets/ins_ratio_ap75.png" alt="实例分割任务性能" width="32%"/>
   <p><em>使用 MIQA 分数过滤低质量图像后，各项任务的性能均得到提升</em></p>
 </div>
 
