@@ -193,9 +193,11 @@ python img_inference.py --input ./assets/demo_images/imagenet_demo --task ins --
 <img src="inference_results/image/cls/composite/miqa_ra_miqa_ILSVRC2012_val_00024142_motion_blur_5.png" width="18%">
 </p>
 
-<p align="center"><em>
+<p align="center">
+<small><sub><em>
 Pretrained model: <b>RA-MIQA</b> | Trained label: <b>Composite Score</b> | Distortion type: <b>Motion Blur</b> | Task: <b>Classification-oriented MIQA</b>
-</em></p>
+</em></sub></small>
+</p>
 
 <p align="center">
 <img src="inference_results/image/det/composite/miqa_ra_miqa_000000258883_jpeg_compression_1.png" width="18%">
@@ -205,9 +207,11 @@ Pretrained model: <b>RA-MIQA</b> | Trained label: <b>Composite Score</b> |
 <img src="inference_results/image/det/composite/miqa_ra_miqa_000000258883_jpeg_compression_5.png" width="18%">
 </p>
 
-<p align="center"><em>
+<p align="center">
+<small><sub><em>
 Pretrained model: <b>RA-MIQA</b> | Trained label: <b>Composite Score</b> | Distortion type: <b>JPEG Compression</b> | Task: <b>Detection-oriented MIQA</b>
-</em></p>
+</em></sub></small>
+</p>
 
 </small>
 </details>
